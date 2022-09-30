@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.dazz.new_task_zolatte">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="new_task_zolatte"
         android:name="${applicationName}"
